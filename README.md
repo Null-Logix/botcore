@@ -1,7 +1,7 @@
 # botcore
 
 [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](package.json)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm%20Noncommercial-red.svg)](LICENSE)
 
 Discord bot library. You write a persona file, point it at a local LLM, and the bot develops personality over time through conversation.
 
@@ -286,4 +286,4 @@ const moderation = createModeration(discordApi, guildId, new Set([
 
 ## License
 
-[MIT](LICENSE)
+[PolyForm Noncommercial License 1.0.0](LICENSE). Personal, hobby, research, and other noncommercial use is permitted. Any commercial use, including selling, reselling, hosting, bundling, or otherwise earning revenue from this software, requires a separate written commercial license. Contact support@syntheos.dev.
